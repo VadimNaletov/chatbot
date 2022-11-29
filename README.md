@@ -1,2 +1,6 @@
-Этот чат-бот умеет отвечать на простые вопросы. В случае если ответа на вопрос нет, он записывает этот вопрос в лог для дальнейшей оптимизации программы
-This chatbot is able to answer simple questions. If there is no answer to the question, he writes this question to the log for further optimization of the program
+Для запуска приложения JVM должна быть установлена на компьютере.<br>
+Чат бот умеет отвечать на вопросы пользователя. Бот сохраняет данные о вопросах в лог, на которые не знает ответа.<br>
+Стек: jQuery, log4j2<br>
+To run the application, the JVM must be installed on the computer.<br>
+The chat bot is able to answer user's questions. The bot saves data about questions in the log, which it does not know the answer to.<br>
+Stack: jQuery, log4j2
